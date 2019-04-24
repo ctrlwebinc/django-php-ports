@@ -19,7 +19,6 @@
 
 namespace Ctrlweb\DjangoPorts;
 
-
-class Signing {
-
+class Signing
+{
 }
