@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Ctrlweb\\DjangoPorts\\": "src/",
+      "Ctrlweb\\DjangoPorts\\": "src/"
     }
   },
   "autoload-dev": {
