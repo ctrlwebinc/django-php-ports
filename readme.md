@@ -5,7 +5,9 @@
 [![Build Status][ico-travis]][link-travis]
 [![StyleCI][ico-styleci]][link-styleci]
 
-This is where your description should go. Take a look at [contributing.md](contributing.md) to see a to do list.
+This package is independent from the Django framework, and is not endorsed by it, nor any of its contributors.
+
+Take a look at [contributing.md](contributing.md) to see a to do list.
 
 ## Contributing
 
@@ -17,6 +19,7 @@ If you discover any security related issues, please email info@ctrlweb.ca instea
 
 ## Credits
 
+- [Django][link-django]
 - [ctrlweb][link-author]
 - [All Contributors][link-contributors]
 
@@ -33,5 +36,6 @@ AGPL-3.0. Please see the [license file](license.md) for more information.
 [link-downloads]: https://packagist.org/packages/ctrlwebinc/django-php-ports
 [link-travis]: https://travis-ci.org/ctrlwebinc/django-php-ports
 [link-styleci]: https://styleci.io/repos/183041272
+[link-django]: https://www.djangoproject.com/
 [link-author]: https://github.com/ctrlwebinc
 [link-contributors]: ../../contributors
