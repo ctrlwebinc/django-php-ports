@@ -17,9 +17,25 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-namespace Ctrlweb\DjangoPorts;
+namespace Ctrlweb\DjangoPorts\Contrib\Auth;
+
+/**
+ * Class PasswordResetTokenGenerator
+ * @package Ctrlweb\DjangoPorts\Contrib\Auth
+ *
+ * Strategy object used to generate and check tokens for the password
+ * reset mechanism.
+ */
+class PasswordResetTokenGenerator
+{
+
+	private static $key_salt = "django.contrib.auth.tokens.PasswordResetTokenGenerator";
+	private static $secret =
 
 
-class Signing {
+
+
+
+
 
 }
